@@ -27,3 +27,5 @@ Essa abordagem é enriquecida pela introdução da variável espaço (S), que to
 A aplicação da matemática financeira no nosso cotidiano — seja por estu-dantes, cidadãos comuns ou profissionais do mercado — está bem definida pelo avanço da ciência matemática, que trabalha em conjunto com a lei re-guladora deste mercado, fornecendo dados e fórmulas para cada sistema. Aqui, veremos isso ao longo de todo o curso, com exemplos práticos na rela-ção cidadão-mercado financeiro e em áreas interdisciplinares (como agro-nomia e engenharia), reforçando que os juros não são forçados, mas obser-vados dentro de seus limites 
 naturais.
 Prepare-se para uma visão renovada da matemática financeira: do capital ao espaço, do crescimento à sustentabilidade!
+
+matelab.py
