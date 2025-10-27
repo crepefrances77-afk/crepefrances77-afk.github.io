@@ -28,4 +28,3 @@ A aplicação da matemática financeira no nosso cotidiano — seja por estu-dan
 naturais.
 Prepare-se para uma visão renovada da matemática financeira: do capital ao espaço, do crescimento à sustentabilidade!
 
-matelab.py
